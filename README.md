@@ -1,5 +1,3 @@
-
-https://github.com/SLoharkar/Cab-Booking-System/assets/68845746/3ad9a093-2a53-4d5e-89d6-50f13d4f526e
 # Cab-Booking System
 Cab Booking System Using Spring Boot and Spring Security (Email OTP Verification)
 
