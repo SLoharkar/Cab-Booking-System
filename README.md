@@ -32,29 +32,29 @@ git clone https://github.com/SLoharkar/Cab-Booking-System.git
 ## Website Highlights
 <p align="left" width="100%">
 
-<img width="32%" src="Screenshots/1.png">
+<img width="32%" src="ScreenShots/1.png">
   
-<img width="32%" src="Screenshots/2.png">
+<img width="32%" src="ScreenShots/2.png">
 
-<img width="32%" src="Screenshots/3.png">
+<img width="32%" src="ScreenShots/3.png">
 
-<img width="32%" src="Screenshots/4.png">
+<img width="32%" src="ScreenShots/4.png">
 
-<img width="32%" src="Screenshots/5.png">
+<img width="32%" src="ScreenShots/5.png">
 
-<img width="32%" src="Screenshots/6.png">
+<img width="32%" src="ScreenShots/6.png">
 
-<img width="32%" src="Screenshots/7.png">
+<img width="32%" src="ScreenShots/7.png">
 
-<img width="32%" src="Screenshots/8.png">
+<img width="32%" src="ScreenShots/8.png">
 
-<img width="32%" src="Screenshots/9.png">
+<img width="32%" src="ScreenShots/9.png">
 
-<img width="32%" src="Screenshots/10.png">
+<img width="32%" src="ScreenShots/10.png">
 
-<img width="32%" src="Screenshots/11.png">
+<img width="32%" src="ScreenShots/11.png">
 
-<img width="32%" src="Screenshots/12.png">
+<img width="32%" src="ScreenShots/12.png">
 
 </p>
 
