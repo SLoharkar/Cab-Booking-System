@@ -7,12 +7,12 @@ Cab Booking System Using Spring Boot and Spring Security (Email OTP Verification
 - lombok
 - Spring Data Validation
 - Spring Data JPA and MySQL Database (Native Query)
-- CRUD Features
 - Spring Boot Entire Model With DTO
 - HTTP Status and Methods
 - Exception Handling Using Global Exception and Custom Exception
 - Stream API and Lambda Expression
 - Solid Principles
+- CRUD Features
 - Easy to Understand Code
  
 
