@@ -10,6 +10,7 @@ Cab Booking System Using Spring Boot and Spring Security (Email OTP Verification
 - Spring Boot Entire Model With DTO
 - HTTP Status and Methods
 - Exception Handling Using Global Exception and Custom Exception
+- slf4j logging
 - Stream API and Lambda Expression
 - Solid Principles
 - CRUD Features
