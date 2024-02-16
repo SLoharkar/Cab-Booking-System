@@ -1,7 +1,13 @@
 # Cab-Booking System
 Cab Booking System Using Spring Boot and Spring Security (Email OTP Verification)
 
-## Features
+
+## Project Overview
+Clients can easily book cabs, register routes, and search for cabs based on criteria like route and model in this 
+Java project.
+
+
+## Technology Used
 - Spring Security With Basic Authentication
 - Relational Mapping One To Many and Many to One
 - lombok
